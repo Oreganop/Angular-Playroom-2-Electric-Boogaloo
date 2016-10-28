@@ -1,0 +1,10 @@
+/typings/
+/node_modules/
+./*.map
+app/*.map
+app/*.js
+./.*.swp
+app/.*.swp
+!./*.js
+*.log
+app/*.log
