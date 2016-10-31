@@ -1,3 +1,3 @@
-export FormConfig: any = {
-    id: number;
-};
+export interface FormConfig {
+    id: 'text';
+}
